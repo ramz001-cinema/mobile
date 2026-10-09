@@ -2,6 +2,11 @@
   "name": "mobile",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "author": {
+    "name": "Ramz",
+    "email": "rkenjaev1@gmail.com"
+  },
+  "license": "MIT",
   "dependencies": {
     "@expo/ui": "~57.0.22",
     "expo": "~57.0.27",
